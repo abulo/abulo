@@ -2,10 +2,7 @@
 <br>
   <br>
   <br>
-  <a href="https://wangchujiang.com/">
     <img width="60" height="60" src="https://avatars3.githubusercontent.com/u/1535443?v=4" />
-  </a>
-  <br>
   <br>
   <p>Hi, I'm Abulo.hoo, Developer from Chengdu, China.</p>
   <p>
@@ -26,7 +23,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abulo&repo=docker-mysql" />
   </a>
 </div>
-<table>
+<table align="center">
     <tbody>
         <tr valign="top">
             <td width="16.6%" align="center">
