@@ -6,8 +6,13 @@
   <br>
   <p>Hi, I'm Abulo.hoo, Developer from Chengdu, China.</p>
   <p>
-    <a href="https://wangchujiang.com/">
-      <img src="https://github-readme-stats.vercel.app/api?username=abulo&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
+    <a href="https://github.com/abulo">
+      <img src="https://github-readme-stats.vercel.app/api?username=abulo&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true" />
+    </a>
+  </p>
+   <p>
+    <a href="https://github.com/abulo">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abulo&theme=algoli"/>
     </a>
   </p>
   <a href="https://github.com/abulo/ratel">
