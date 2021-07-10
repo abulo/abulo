@@ -12,7 +12,7 @@
   </p>
    <p>
     <a href="https://github.com/abulo">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abulo&theme=algoli"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abulo&theme=algoli&time=1"/>
     </a>
   </p>
   <a href="https://github.com/abulo/ratel">
