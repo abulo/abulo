@@ -21,9 +21,6 @@
   <a href="https://github.com/abulo/docker-golang">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abulo&repo=docker-golang" />
   </a>
-  <a href="https://github.com/abulo/docker-mysql">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abulo&repo=docker-mysql" />
-  </a>
 </div>
 <table align="center">
     <tbody>
