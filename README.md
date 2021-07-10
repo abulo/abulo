@@ -18,9 +18,6 @@
   <a href="https://github.com/abulo/ratel">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abulo&repo=ratel" />
   </a>
-  <a href="https://github.com/abulo/Kernel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abulo&repo=Kernel" />
-  </a>
   <a href="https://github.com/abulo/docker-golang">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abulo&repo=docker-golang" />
   </a>
