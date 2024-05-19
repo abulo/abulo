@@ -15,12 +15,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abulo&theme=algoli&time=1"/>
     </a>
   </p>
-  <a href="https://github.com/abulo/ratel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abulo&repo=ratel" />
-  </a>
-  <a href="https://github.com/abulo/apollo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abulo&repo=apollo" />
-  </a>
 </div>
 <table align="center">
     <tbody>
